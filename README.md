@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by whateversamah - https://github.com/whateversamah/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+enthusiast;CTF+player;Top+two+percent+on+tryhackme)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%20Cybersecurity+enthusiast;CTF+player;Top+two+percent+on+tryhackme)](https://git.io/typing-svg)
 
 
 <p align="center">
