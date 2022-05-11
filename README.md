@@ -3,8 +3,9 @@
 </h3>
 
 <!-- Typing SVG by whateversamah - https://github.com/whateversamah/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+  
 </p>
 
 <p align="center">
