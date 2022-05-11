@@ -3,7 +3,7 @@
 </h3>
 
 <!-- Typing SVG by whateversamah - https://github.com/whateversamah/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+enthusiast;CTF+player;Top+2%+on+try hack me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+enthusiast;CTF+player)](https://git.io/typing-svg)
 <p align="center">
   
 </p>
