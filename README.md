@@ -5,7 +5,7 @@
  
 <!-- Typing SVG by whateversamah - https://github.com/whateversamah/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=0CFF22FD&center=true&width=410&height=60&lines=Computer+science+engineer+student;Cyber+Security+Enthusiast;CTF+player;Top+2%25+on+Try+Hack+Me;Part-time+musician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=0CFF22FD&center=true&width=410&height=60&lines=20%Computer+science+engineer+student;Cyber+Security+Enthusiast;CTF+player;Top+2%25+on+Try+Hack+Me;Part-time+musician)](https://git.io/typing-svg)
 
 
 <p align="center">
