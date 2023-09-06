@@ -1,5 +1,5 @@
 <h3>
-  Hey, I'm SAMAH TIMASLI!
+  Hey!
 </h3>
 
  
